@@ -311,4 +311,4 @@ Et rappelez-vous que je vous ai économisé l'écriture d'un long guide de contr
 
 ## Ressource
 
-Code source du tutoriel sur notre dépôt Github : [https://github.com/xebia-france/angular-prettier](https://github.com/xebia-france/angular-prettier).
+Code source du tutoriel sur notre dépôt Github : [https://github.com/avine/angular-prettier](https://github.com/avine/angular-prettier).
